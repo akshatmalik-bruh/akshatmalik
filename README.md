@@ -80,7 +80,7 @@ Pulls repository metadata via **Octokit**, feeds it to **Llama 3 (Groq)** for co
 
 Built around **atomic transactions** and **MongoDB sessions** to ensure data consistency under concurrent load. Backend APIs handle balance management, transfers, and rollback logic — modeled on patterns used in real payment systems.
 
-`Node.js` `Express` `MongoDB` `ACID Transactions`
+`Node.js` `Express` `MongoDB` `ACID Transactions` `Web Poling`
 
 ---
 
@@ -96,18 +96,23 @@ Extracts audio and transcript data using **yt-dlp**, runs summarization through 
 ### [Resume Analyzer](https://github.com/akshatmalik-bruh/resumeAnalyser)
 > Multi-LLM resume optimization tool
 
-Submits the same resume to both **Gemini** and **Llama** in parallel, then presents a comparative analysis of suggestions. Highlights discrepancies between models to give users a more balanced perspective on their resume quality.
+ Automatically parses PDF resumes and extracts core skills, experiences, and qualifications.
+- **Intelligent ATS Scoring**: Computes a compatibility score (ATS Score) between the user's resume and a target job description, identifying critical gaps.
+- **Comprehensive Interview Reports**: Generates detailed reports including potential interview questions, behavioral insights, and tailored advice to help candidates prepare.
+- **Dynamic Resume Optimization**: Goes beyond analysis by using AI to generate a restructured, optimized PDF resume that highlights the most relevant skills for a specific job.
+- **Smart Caching System**: Optimizes performance and reduces API costs by caching previous analyses and generated documents in a MongoDB database.
+- **Secure Authentication**: Built-in user management system with JWT-based authentication to ensure private and secure storage of resumes and reports.
 
-`Express` `MongoDB` `Gemini API` `Groq` `LangChain`
+`Express` `MongoDB` `Gemini API` `Groq` `JWT` `Bcrypt` `PDF-Parse` `Puppeteer` `React + Vite` `Multer`
 
 ---
 
 ### [CP Extension](https://github.com/akshatmalik-bruh/CPextension)
 > Browser extension for competitive programmers
 
-Automates problem analysis and surfaces optimization hints directly in the browser during contests. Built on **Manifest v3** with LLM-powered hints, reducing the friction of context-switching during timed rounds.
+Gives the space complexity , time complexity and optimal solution if required , also returns an explanation for the approach. Made for Leetcode and CodeForces
 
-`JavaScript` `Manifest v3` `LLM Integration`
+`JavaScript` `Manifest v3` `LLM Integration` `Redis` `Rate-Limiting`
 
 ---
 
