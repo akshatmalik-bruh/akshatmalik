@@ -2,7 +2,7 @@
 
 # Akshat Malik
 
-**Backend Engineer · GenAI Developer · B.Tech CSE @ BIT Mesra**
+**Frontend and Backend Engineer · GenAI Developer · B.Tech CSE @ BIT Mesra**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-malik-2079973a0/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:akshat.malik.dev@gmail.com)
@@ -123,18 +123,6 @@ Gives the space complexity , time complexity and optimal solution if required , 
 Quantitative study examining awareness and behavioral patterns around food waste at Indian social events. Proposed a **Smart Food Distribution Platform** to bridge the gap between surplus food at events and nearby distribution networks, focusing on real-time logistics between donors and recipients.
 
 [📄 Read Publication →](https://drive.google.com/file/d/1FgbL2TuScu7BhsIsuyZh-BFhnWWmKmVC/preview)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Akshat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshatmalik-bruh&show_icons=true&theme=onedark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatmalik-bruh&layout=compact&theme=onedark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
 
 ---
 
