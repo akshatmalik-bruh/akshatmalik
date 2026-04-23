@@ -2,7 +2,7 @@
 
 # Akshat Malik
 
-**Frontend and Backend Engineer · GenAI Developer · B.Tech CSE @ BIT Mesra**
+**Frontend and Backend Engineer · AI ENGINEER · B.Tech CSE @ BIT Mesra**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-malik-2079973a0/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:akshat.malik.dev@gmail.com)
