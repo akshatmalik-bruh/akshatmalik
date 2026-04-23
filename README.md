@@ -66,6 +66,36 @@ Currently looking for **Software Engineering / Backend / GenAI roles** where I c
 
 ## Projects
 
+---
+
+### [Multi AI Agents RAG Research Platform](https://github.com/akshatmalik-bruh/Multi-Agent-Research)
+> Agentic AI system for deep research and structured knowledge synthesis  
+
+- **Multi-Agent Orchestration**: Designed a system of specialized AI agents (retriever, analyzer, critic) that collaborate to perform deep, multi-step research tasks.  - **RAG Pipeline**: Implements Retrieval-Augmented Generation using vector databases to chat with a singular pdf uses locked search method so that the data is  searched fromthe chosen pdf only.  
+- **Intelligent Source Aggregation**: Two agents one the searcher and second the parser responsible for searching the live data Using TavilyApi by fetching relevant sites and then parsing the site via beuatiful soup, filtering noise and extracting high-quality, relevant information.  
+- **Structured Knowledge Synthesis**: Summary Agent Converts unstructured data into well-organized Report with proper sources shown.  
+- **State Management**: Maintained a state management variable that helps to pass context from one agent to another.  
+- **Semantic Search with Embeddings**: Uses embedding models to perform similarity search and contextual retrieval from large document collections.
+- **Used Mutli AI service Providers** : Used cerebras and groq together in the orchestration layer to ensure the token limit is never reached and maximum context is passed onto each layer without hitting the TPM(tokens per limit).
+ 
+  `LangChain` `Pinecone` `MongoDB` `FastAPI` `Groq & Cerebras` `Sentence-Transformers` `React` `BeautifulSoup` `TavilyAPI` `LLAMA LLM MODELS`
+
+---
+
+### [Resume Analyzer](https://github.com/akshatmalik-bruh/resumeAnalyser)
+> Multi-LLM resume optimization tool
+
+ Automatically parses PDF resumes and extracts core skills, experiences, and qualifications.
+- **Intelligent ATS Scoring**: Computes a compatibility score (ATS Score) between the user's resume and a target job description, identifying critical gaps.
+- **Comprehensive Interview Reports**: Generates detailed reports including potential interview questions, behavioral insights, and tailored advice to help candidates prepare.
+- **Dynamic Resume Optimization**: Goes beyond analysis by using AI to generate a restructured, optimized PDF resume that highlights the most relevant skills for a specific job.
+- **Smart Caching System**: Optimizes performance and reduces API costs by caching previous analyses and generated documents in a MongoDB database.
+- **Secure Authentication**: Built-in user management system with JWT-based authentication to ensure private and secure storage of resumes and reports.
+
+`Express` `MongoDB` `Gemini API` `Groq` `JWT` `Bcrypt` `PDF-Parse` `Puppeteer` `React + Vite` `Multer`
+
+---
+
 ### [AI README Generator](https://github.com/akshatmalik-bruh/ReadMe-file-generator)
 > Generates intelligent GitHub READMEs from repository data using LLMs
 
@@ -93,17 +123,7 @@ Extracts audio and transcript data using **yt-dlp**, runs summarization through 
 
 ---
 
-### [Resume Analyzer](https://github.com/akshatmalik-bruh/resumeAnalyser)
-> Multi-LLM resume optimization tool
 
- Automatically parses PDF resumes and extracts core skills, experiences, and qualifications.
-- **Intelligent ATS Scoring**: Computes a compatibility score (ATS Score) between the user's resume and a target job description, identifying critical gaps.
-- **Comprehensive Interview Reports**: Generates detailed reports including potential interview questions, behavioral insights, and tailored advice to help candidates prepare.
-- **Dynamic Resume Optimization**: Goes beyond analysis by using AI to generate a restructured, optimized PDF resume that highlights the most relevant skills for a specific job.
-- **Smart Caching System**: Optimizes performance and reduces API costs by caching previous analyses and generated documents in a MongoDB database.
-- **Secure Authentication**: Built-in user management system with JWT-based authentication to ensure private and secure storage of resumes and reports.
-
-`Express` `MongoDB` `Gemini API` `Groq` `JWT` `Bcrypt` `PDF-Parse` `Puppeteer` `React + Vite` `Multer`
 
 ---
 
