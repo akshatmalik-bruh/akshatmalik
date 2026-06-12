@@ -1,29 +1,33 @@
 <div align="center">
 
-# Akshat Malik
+# Hey there, I'm Akshat Malik 👋
 
-**Frontend and Backend Engineer · AI ENGINEER · B.Tech CSE @ BIT Mesra**
+### Full Stack Developer · AI/LLM Engineer 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-malik-2079973a0/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:akshat.malik.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akshatmalik-bruh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-akshatmalik--github--io.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://akshatmalik-github-io.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/akshaaaaattttt)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Backend%20%7C%20GenAI-22c55e?style=flat-square&logo=briefcase&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://akshat-delta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshatmalik)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/akshatmalik)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akshatmalik)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatf8lmalik@gmail.com)
 
 </div>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-I'm a final-year Computer Science student at BIT Mesra (CGPA: 8.18) with a focus on building backend systems that are reliable, scalable, and intelligent. My work sits at the intersection of **distributed systems**, **LLM integration**, and **API design** — I care about software that actually works in production, not just in demos.
+I'm a Computer Science undergraduate at **BIT Mesra** (CGPA: 8.18), passionate about building full-stack products, AI-powered systems, and developer tools. I love working at the intersection of **software engineering** and **AI/LLM integration**.
 
-Currently looking for **Software Engineering / Backend / GenAI roles** where I can contribute to systems that handle real scale and complexity.
+
+- 🧠 Deep interest in **AI agents, RAG systems, and MCP (Model Context Protocol)**
+- 📦 Published an **npm package** (Chat-Relay MCP) with **400+ downloads**
+- 📝 I write technical articles on [Medium](https://medium.com/@akshatmalik) covering web development, AI systems, and software engineering
+- 🏆 Solved **400+ DSA problems** across LeetCode and other platforms
+- 📄 Published a **Scopus-indexed research paper** on tech-driven solutions for food sustainability
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -32,124 +36,129 @@ Currently looking for **Software Engineering / Backend / GenAI roles** where I c
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**AI / LLMs**
+**Frontend**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq%20%28Llama%203%29-F55036?style=flat-square&logo=meta&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Frontend**
+**Databases**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Databases & Caching**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PineconeDB](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 
-**DevOps & Tools**
+**AI / LLM**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama_3-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Cerebras](https://img.shields.io/badge/Cerebras-FF5B00?style=flat-square&logoColor=white)
+
+**Tools & DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF6B6B?style=flat-square&logoColor=white)
+![MCP SDK](https://img.shields.io/badge/MCP_SDK-8A2BE2?style=flat-square&logoColor=white)
 
 ---
 
-## Projects
+## 🚀 Featured Projects
+
+### 🔗 [Chat-Relay MCP](https://github.com/akshatmalik) · `npm` · 400+ Downloads
+> Cross-IDE AI context persistence via Model Context Protocol
+
+A production-ready **MCP server** that enables seamless AI-assisted workflow migration across IDEs. Stores conversations, project metadata, and developer context — so your AI never loses track of where you left off.
+
+`TypeScript` `MCP SDK` `SQLite` `Zod` `Node.js`
 
 ---
 
-### [Multi AI Agents RAG Research Platform](https://github.com/akshatmalik-bruh/Multi-Agent-Research)
-> Agentic AI system for deep research and structured knowledge synthesis  
+### 🤖 [Multi AI Agent + RAG Research System](https://github.com/akshatmalik)
+> Live web research with multi-agent orchestration
 
-- **Multi-Agent Orchestration**: Designed a system of specialized AI agents (retriever, analyzer, critic) that collaborate to perform deep, multi-step research tasks.  - **RAG Pipeline**: Implements Retrieval-Augmented Generation using vector databases to chat with a singular pdf uses locked search method so that the data is  searched fromthe chosen pdf only.  
-- **Intelligent Source Aggregation**: Two agents one the searcher and second the parser responsible for searching the live data Using TavilyApi by fetching relevant sites and then parsing the site via beuatiful soup, filtering noise and extracting high-quality, relevant information.  
-- **Structured Knowledge Synthesis**: Summary Agent Converts unstructured data into well-organized Report with proper sources shown.  
-- **State Management**: Maintained a state management variable that helps to pass context from one agent to another.  
-- **Semantic Search with Embeddings**: Uses embedding models to perform similarity search and contextual retrieval from large document collections.
-- **Used Mutli AI service Providers** : Used cerebras and groq together in the orchestration layer to ensure the token limit is never reached and maximum context is passed onto each layer without hitting the TPM(tokens per limit).
- 
-  `LangChain` `Pinecone` `MongoDB` `FastAPI` `Groq & Cerebras` `Sentence-Transformers` `React` `BeautifulSoup` `TavilyAPI` `LLAMA LLM MODELS`
+A **RAG-powered research platform** featuring a multi-agent architecture (Searcher → Parser → Report Generator → Critic Reviewer). Performs real-time web research, synthesizes multi-source information, and generates structured, comprehensive reports.
+
+`React.js` `FastAPI` `MongoDB` `PineconeDB` `LangChain` `Groq` `Cerebras` `Llama 3.1/3.3`
 
 ---
 
-### [Resume Analyzer](https://github.com/akshatmalik-bruh/resumeAnalyser)
-> Multi-LLM resume optimization tool
+### 📄 [Resume Analyzer](https://github.com/akshatmalik)
+> AI-powered ATS resume optimization platform
 
- Automatically parses PDF resumes and extracts core skills, experiences, and qualifications.
-- **Intelligent ATS Scoring**: Computes a compatibility score (ATS Score) between the user's resume and a target job description, identifying critical gaps.
-- **Comprehensive Interview Reports**: Generates detailed reports including potential interview questions, behavioral insights, and tailored advice to help candidates prepare.
-- **Dynamic Resume Optimization**: Goes beyond analysis by using AI to generate a restructured, optimized PDF resume that highlights the most relevant skills for a specific job.
-- **Smart Caching System**: Optimizes performance and reduces API costs by caching previous analyses and generated documents in a MongoDB database.
-- **Secure Authentication**: Built-in user management system with JWT-based authentication to ensure private and secure storage of resumes and reports.
+Identifies skill gaps, generates tailored interview questions, and produces **ATS-optimized resumes** aligned to specific job descriptions.
 
-`Express` `MongoDB` `Gemini API` `Groq` `JWT` `Bcrypt` `PDF-Parse` `Puppeteer` `React + Vite` `Multer`
+`React.js` `Express.js` `MongoDB` `JWT` `Puppeteer` `Groq` `Llama 3.3`
 
 ---
 
-### [AI README Generator](https://github.com/akshatmalik-bruh/ReadMe-file-generator)
-> Generates intelligent GitHub READMEs from repository data using LLMs
+### 🖥️ [CodeSandbox](https://github.com/akshatmalik)
+> Secure, containerized code execution in the browser
 
-Pulls repository metadata via **Octokit**, feeds it to **Llama 3 (Groq)** for context-aware content generation, and caches results with **Redis** to minimize redundant API calls. Designed to handle varied repo structures gracefully.
+A web-based code execution platform using **worker processes** to orchestrate Docker containers for secure, isolated, and horizontally scalable execution environments.
 
-`Node.js` `Groq` `Llama 3` `Octokit` `Redis`
-
----
-
-### [Virtual Money Transfer System](https://github.com/akshatmalik-bruh/virtual_money_transfer)
-> Fintech-grade transaction engine with ACID guarantees
-
-Built around **atomic transactions** and **MongoDB sessions** to ensure data consistency under concurrent load. Backend APIs handle balance management, transfers, and rollback logic — modeled on patterns used in real payment systems.
-
-`Node.js` `Express` `MongoDB` `ACID Transactions` `Web Poling`
+`Docker` `Express.js` `Redis` `BullMQ` `MongoDB` `React.js`
 
 ---
 
-### [Snap Stream](https://github.com/akshatmalik-bruh/snap-stream)
-> Turns YouTube videos into structured, readable summaries
+## 💼 Experience
 
-Extracts audio and transcript data using **yt-dlp**, runs summarization through **locally hosted LLMs via Ollama** (no external API cost), and persists results in **PostgreSQL** for retrieval. Fully self-contained pipeline.
+**Full Stack Developer Intern — Zoolarity** *(May 2026 – Present)*
+- Developed and refactored RESTful endpoints within a modular monolith using the Controller-Service pattern
+- Resolved 3 high-priority full-stack JIRA tickets in a single sprint (RBAC, API enhancements, DB migrations, UI)
+- Designed admin-side filtering and optimized query performance with database indexes, significantly cutting response times
 
-`FastAPI` `Python` `Ollama` `yt-dlp` `PostgreSQL`
-
----
-
-
+`PostgreSQL` `NestJS` `Next.js` `TypeORM`
 
 ---
 
-### [CP Extension](https://github.com/akshatmalik-bruh/CPextension)
-> Browser extension for competitive programmers
+## 🏆 Achievements
 
-Gives the space complexity , time complexity and optimal solution if required , also returns an explanation for the approach. Made for Leetcode and CodeForces
-
-`JavaScript` `Manifest v3` `LLM Integration` `Redis` `Rate-Limiting`
-
----
-
-## Research
-
-**Youth Standpoints on Food Wastage at Indian Weddings**
-
-Quantitative study examining awareness and behavioral patterns around food waste at Indian social events. Proposed a **Smart Food Distribution Platform** to bridge the gap between surplus food at events and nearby distribution networks, focusing on real-time logistics between donors and recipients.
-
-[📄 Read Publication →](https://drive.google.com/file/d/1FgbL2TuScu7BhsIsuyZh-BFhnWWmKmVC/preview)
+- 📦 **400+ npm downloads** for Chat-Relay MCP
+- 🧩 **400+ DSA problems** solved on LeetCode and other platforms
+- 📰 **Scopus-indexed publication** — *Youth Standpoints on Food Wastage at Indian Weddings* (TSM Journal)
+- ✍️ Active technical writer on **Medium** — web dev, AI systems, and software engineering
 
 ---
 
-## What I'm Looking For
+## 📊 GitHub Stats
 
-I'm interested in roles where the technical problems are genuinely hard — distributed systems that need to stay consistent, AI pipelines that need to be reliable in production, APIs that need to scale. I learn fast, care about the details, and prefer working on things that matter.
+<div align="center">
 
-If you're building something in that space, I'd like to talk.
+![Akshat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshatmalik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-📧 [akshat.malik.dev@gmail.com](mailto:akshat.malik.dev@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/akshat-malik-2079973a0/) · 🌐 [Portfolio](https://akshatmalik-github-io.vercel.app)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatmalik&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=akshatmalik&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+I'm always open to interesting conversations, collaborations, or new opportunities.
+
+- 🌐 **Portfolio:** [akshat-delta.vercel.app](https://akshat-delta.vercel.app/)
+- 📧 **Email:** akshatf8lmalik@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/akshatmalik](https://linkedin.com/in/akshatmalik)
+- ✍️ **Medium:** [medium.com/@akshatmalik](https://medium.com/@akshatmalik)
+
+---
+
+<div align="center">
+
+*"Build things people use, ship fast, learn faster."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=akshatmalik&color=blueviolet&style=flat-square)
+
+</div>
