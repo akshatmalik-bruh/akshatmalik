@@ -130,19 +130,7 @@ A web-based code execution platform using **worker processes** to orchestrate Do
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Akshat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshatmalik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatmalik&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=akshatmalik&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 📬 Let's Connect
 
@@ -157,8 +145,6 @@ I'm always open to interesting conversations, collaborations, or new opportuniti
 
 <div align="center">
 
-*"Build things people use, ship fast, learn faster."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=akshatmalik&color=blueviolet&style=flat-square)
 
 </div>
