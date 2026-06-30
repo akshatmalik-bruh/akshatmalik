@@ -74,7 +74,7 @@ I'm a Computer Science undergraduate at **BIT Mesra** (CGPA: 8.18), passionate a
 
 ## 🚀 Featured Projects
 
-### 🔗 [Chat-Relay MCP](https://github.com/akshatmalik) · `npm` · 400+ Downloads
+### 🔗 [Chat-Relay MCP](https://github.com/akshatmalik-bruh/ChatRelayMcp) · `npm` · 400+ Downloads
 > Cross-IDE AI context persistence via Model Context Protocol
 
 A production-ready **MCP server** that enables seamless AI-assisted workflow migration across IDEs. Stores conversations, project metadata, and developer context — so your AI never loses track of where you left off.
@@ -83,7 +83,7 @@ A production-ready **MCP server** that enables seamless AI-assisted workflow mig
 
 ---
 
-### 🤖 [Multi AI Agent + RAG Research System](https://github.com/akshatmalik)
+### 🤖 [Multi AI Agent + RAG Research System](https://github.com/akshatmalik-bruh/Multi-Agent-Research)
 > Live web research with multi-agent orchestration
 
 A **RAG-powered research platform** featuring a multi-agent architecture (Searcher → Parser → Report Generator → Critic Reviewer). Performs real-time web research, synthesizes multi-source information, and generates structured, comprehensive reports.
@@ -92,7 +92,7 @@ A **RAG-powered research platform** featuring a multi-agent architecture (Search
 
 ---
 
-### 📄 [Resume Analyzer](https://github.com/akshatmalik)
+### 📄 [Resume Analyzer](https://github.com/akshatmalik-bruh/resumeAnalyser)
 > AI-powered ATS resume optimization platform
 
 Identifies skill gaps, generates tailored interview questions, and produces **ATS-optimized resumes** aligned to specific job descriptions.
@@ -101,7 +101,7 @@ Identifies skill gaps, generates tailored interview questions, and produces **AT
 
 ---
 
-### 🖥️ [CodeSandbox](https://github.com/akshatmalik)
+### 🖥️ [CodeSandbox](https://github.com/akshatmalik-bruh/CodeSandbox)
 > Secure, containerized code execution in the browser
 
 A web-based code execution platform using **worker processes** to orchestrate Docker containers for secure, isolated, and horizontally scalable execution environments.
