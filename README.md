@@ -21,7 +21,7 @@ I'm a Computer Science undergraduate at **BIT Mesra** (CGPA: 8.18), passionate a
 
 - 🧠 Deep interest in **AI agents, RAG systems, and MCP (Model Context Protocol)**
 - 📦 Published an **npm package** (Chat-Relay MCP) with **400+ downloads**
-- 📝 I write technical articles on [Medium](https://medium.com/@akshatmalik) covering web development, AI systems, and software engineering
+- 📝 I write technical articles on [Medium](https://medium.com/@akshatf8lmalik) covering web development, AI systems, and software engineering
 - 🏆 Solved **400+ DSA problems** across LeetCode and other platforms
 - 📄 Published a **Scopus-indexed research paper** on tech-driven solutions for food sustainability
 
