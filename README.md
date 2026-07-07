@@ -138,8 +138,8 @@ I'm always open to interesting conversations, collaborations, or new opportuniti
 
 - 🌐 **Portfolio:** [akshat-delta.vercel.app](https://akshat-delta.vercel.app/)
 - 📧 **Email:** akshatf8lmalik@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/akshatmalik](https://www.linkedin.com/in/akshat-malik-2079973a0/)
-- ✍️ **Medium:** [medium.com/@akshatmalik](https://medium.com/@akshatf8lmalik)
+- 💼 **LinkedIn:** [linkedin.com/in/akshat-malik-2079973a0](https://www.linkedin.com/in/akshat-malik-2079973a0/)
+- ✍️ **Medium:** [medium.com/@akshatf8lmalik](https://medium.com/@akshatf8lmalik)
 
 ---
 
