@@ -112,7 +112,7 @@ A web-based code execution platform using **worker processes** to orchestrate Do
 
 ## 💼 Experience
 
-**Full Stack Developer Intern — Zoolarity** *(May 2026 – Present)*
+**Full Stack Developer Intern — Zoolarity** *(May 2026 – July 2026)*
 - Developed and refactored RESTful endpoints within a modular monolith using the Controller-Service pattern
 - Resolved 3 high-priority full-stack JIRA tickets in a single sprint (RBAC, API enhancements, DB migrations, UI)
 - Designed admin-side filtering and optimized query performance with database indexes, significantly cutting response times
