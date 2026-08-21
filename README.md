@@ -117,7 +117,7 @@ A web-based code execution platform using **worker processes** to orchestrate Do
 - Resolved 3 high-priority full-stack JIRA tickets in a single sprint (RBAC, API enhancements, DB migrations, UI)
 - Designed admin-side filtering and optimized query performance with database indexes, significantly cutting response times
 
-`PostgreSQL` `NestJS` `Next.js` `TypeORM`
+`PostgreSQL` `NestJS` `React.js` `TypeORM`
 
 ---
 
