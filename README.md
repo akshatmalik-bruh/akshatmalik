@@ -2,7 +2,7 @@
 
 # Hey there, I'm Akshat Malik 👋
 
-### Full Stack Developer · AI/LLM Engineer 
+### Full Stack Developer · GenAI Engineer 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://akshat-delta.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-malik-2079973a0/)
