@@ -1,150 +1,113 @@
 <div align="center">
 
-# Hey there, I'm Akshat Malik 👋
+# Hi, I'm Akshat Malik
 
-### Full Stack Developer · GenAI Engineer 
+### Full Stack & GenAI Engineer | Open Source Contributor
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://akshat-delta.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-malik-2079973a0/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/akshatf8lmalik/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akshatf8lmalik)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatf8lmalik@gmail.com)
+A Full Stack & GenAI Developer passionate about designing scalable backends, Retrieval-Augmented Generation (RAG) pipelines, MCP servers, and AI agentic workflows.
+
+<p>
+<a href="http://akshatmalik.is-a.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/akshat-malik-2079973a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/akshatmalik-bruh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://x.com/akshat__dev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://medium.com/@akshatf8lmalik"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://www.npmjs.com/package/chat-relay-mcp"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/></a>
+<a href="mailto:akshatf8lmalik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🛠️ Skills
 
-I'm a Computer Science undergraduate at **BIT Mesra** (CGPA: 8.18), passionate about building full-stack products, AI-powered systems, and developer tools. I love working at the intersection of **software engineering** and **AI/LLM integration**.
+**Languages & Core**
 
-
-- 🧠 Deep interest in **AI agents, RAG systems, and MCP (Model Context Protocol)**
-- 📦 Published an **npm package** (Chat-Relay MCP) with **400+ downloads**
-- 📝 I write technical articles on [Medium](https://medium.com/@akshatf8lmalik) covering web development, AI systems, and software engineering
-- 🏆 Solved **400+ DSA problems** across LeetCode and other platforms
-- 📄 Published a **Scopus-indexed research paper** on tech-driven solutions for food sustainability
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
-**Backend**
+**Backend & Frameworks**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PineconeDB](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Pinecone-Vector%20DB-1C17FF?style=flat-square&logo=pinecone&logoColor=white"/>
 
-**AI / LLM**
+**GenAI / LLM Tooling**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama_3-0467DF?style=flat-square&logo=meta&logoColor=white)
-![Cerebras](https://img.shields.io/badge/Cerebras-FF5B00?style=flat-square&logoColor=white)
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/Anthropic%20MCP%20SDK-D97757?style=flat-square&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/RAG%20Pipelines-4B0082?style=flat-square"/> <img src="https://img.shields.io/badge/Multi--Agent%20Systems-8A2BE2?style=flat-square"/> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Cerebras-6E36F5?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Llama%203.1%2F3.3-0467DF?style=flat-square&logo=meta&logoColor=white"/>
 
-**Tools & DevOps**
+**DevOps & Infrastructure**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-FF6B6B?style=flat-square&logoColor=white)
-![MCP SDK](https://img.shields.io/badge/MCP_SDK-8A2BE2?style=flat-square&logoColor=white)
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/BullMQ-FF6600?style=flat-square&logoColor=white"/>
 
----
+**Auth & Security**
 
-## 🚀 Featured Projects
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/Bcrypt-4A4A4A?style=flat-square"/> <img src="https://img.shields.io/badge/RBAC-2E8B57?style=flat-square"/>
 
-### 🔗 [Chat-Relay MCP](https://github.com/akshatmalik-bruh/ChatRelayMcp) · `npm` · 400+ Downloads
-> Cross-IDE AI context persistence via Model Context Protocol
+**Tools & Libraries**
 
-A production-ready **MCP server** that enables seamless AI-assisted workflow migration across IDEs. Stores conversations, project metadata, and developer context — so your AI never loses track of where you left off.
-
-`TypeScript` `MCP SDK` `SQLite` `Zod` `Node.js`
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/> <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white"/>
 
 ---
 
-### 🤖 [Multi AI Agent + RAG Research System](https://github.com/akshatmalik-bruh/Multi-Agent-Research)
-> Live web research with multi-agent orchestration
+## 💼 Work Experience
 
-A **RAG-powered research platform** featuring a multi-agent architecture (Searcher → Parser → Report Generator → Critic Reviewer). Performs real-time web research, synthesizes multi-source information, and generates structured, comprehensive reports.
+### <img src="https://img.shields.io/badge/Zoolarity-000000?style=flat-square" height="20"/> — Full Stack Developer Intern
+*May 2026 – July 2026 · On-Site*
 
-`React.js` `FastAPI` `MongoDB` `PineconeDB` `LangChain` `Groq` `Cerebras` `Llama 3.1/3.3`
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
----
-
-### 📄 [Resume Analyzer](https://github.com/akshatmalik-bruh/resumeAnalyser)
-> AI-powered ATS resume optimization platform
-
-Identifies skill gaps, generates tailored interview questions, and produces **ATS-optimized resumes** aligned to specific job descriptions.
-
-`React.js` `Express.js` `MongoDB` `JWT` `Puppeteer` `Groq` `Llama 3.3`
+- Developed and refactored RESTful endpoints within a modular monolith, using the Controller-Service pattern for enhanced code maintainability.
+- Resolved 3 high-priority full-stack JIRA tickets in a single sprint — implementing role-based access control, API enhancements, database migrations, and UI improvements.
+- Optimized query performance from **10s to 250ms**, significantly reducing response times.
 
 ---
 
-### 🖥️ [CodeSandbox](https://github.com/akshatmalik-bruh/CodeSandbox)
-> Secure, containerized code execution in the browser
+## 🌱 Open Source
 
-A web-based code execution platform using **worker processes** to orchestrate Docker containers for secure, isolated, and horizontally scalable execution environments.
+<div align="center">
+<img src="https://img.shields.io/badge/37%2B%20Merged%20Pull%20Requests-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="37+ Merged PRs"/>
+</div>
 
-`Docker` `Express.js` `Redis` `BullMQ` `MongoDB` `React.js`
+### <img src="https://github.com/repowise-dev.png" width="24" height="24" style="border-radius:4px; vertical-align:middle;"/> [repowise-dev/repowise](https://github.com/repowise-dev/repowise)
 
----
+<img src="https://img.shields.io/badge/25%2B%20Merged%20PRs-2ea44f?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Server-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Pipelines-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Compilers-blue?style=flat-square"/> <img src="https://img.shields.io/badge/AST-blue?style=flat-square"/>
 
-## 💼 Experience
+Notable PRs:
+- [#1859](https://github.com/repowise-dev/repowise/pull/1859) — Scoped directory tree walk-budget counters to fixture paths to prevent premature traversal exhaustion on large repos.
+- [#1562](https://github.com/repowise-dev/repowise/pull/1562) — Corrected standalone build output path resolution in containerized deployments.
+- [#1472](https://github.com/repowise-dev/repowise/pull/1472) — Added AST detection for `@deprecated`/`Obsolete` annotations across TypeScript, Java, and C# pipelines.
+- [#1445](https://github.com/repowise-dev/repowise/pull/1445) — Enforced completeness scope gates for AI answers on truncated/partial code symbol bodies.
+- [#1434](https://github.com/repowise-dev/repowise/pull/1434) — Added CLI indicators for hidden low-confidence findings in static analysis output.
+- [#1408](https://github.com/repowise-dev/repowise/pull/1408) — Hardened webhook receiver security with fail-closed auth and per-request secret rotation.
 
-**Full Stack Developer Intern — Zoolarity** *(May 2026 – July 2026)*
-- Developed and refactored RESTful endpoints within a modular monolith using the Controller-Service pattern
-- Resolved 3 high-priority full-stack JIRA tickets in a single sprint (RBAC, API enhancements, DB migrations, UI)
-- Designed admin-side filtering and optimized query performance with database indexes, significantly cutting response times
+### <img src="https://github.com/corsairdev.png" width="24" height="24" style="border-radius:4px; vertical-align:middle;"/> [corsairdev/corsair](https://github.com/corsairdev/corsair)
 
-`PostgreSQL` `NestJS` `React.js` `TypeORM`
+<img src="https://img.shields.io/badge/15%2B%20Merged%20PRs-2ea44f?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Plugins-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Integrations-orange?style=flat-square"/> <img src="https://img.shields.io/badge/OAuth-orange?style=flat-square"/> <img src="https://img.shields.io/badge/API-orange?style=flat-square"/>
 
----
+Notable PRs:
+- [#492](https://github.com/corsairdev/corsair/pull/492) — Built a complete BetterContact integration plugin with webhooks, contact management, and token refresh.
+- [#489](https://github.com/corsairdev/corsair/pull/489) — Developed end-to-end 2Chat integration with contact sync, usage tracking, and webhooks.
 
-## 🏆 Achievements
+### <img src="https://github.com/better-auth.png" width="24" height="24" style="border-radius:4px; vertical-align:middle;"/> [better-auth/better-auth](https://github.com/better-auth/better-auth)
 
-- 📦 **400+ npm downloads** for Chat-Relay MCP
-- 🧩 **400+ DSA problems** solved on LeetCode and other platforms
-- ✍️ Active technical writer on **Medium** — web dev, AI systems, and software engineering
-  
+<img src="https://img.shields.io/badge/1%2B%20Merged%20PR-2ea44f?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Authentication-purple?style=flat-square"/> <img src="https://img.shields.io/badge/TypeScript-purple?style=flat-square"/> <img src="https://img.shields.io/badge/Cookies-purple?style=flat-square"/>
 
----
+Comprehensive TypeScript authentication library for Web & Next.js
 
-
-
-## 📬 Let's Connect
-
-I'm always open to interesting conversations, collaborations, or new opportunities.
-
-- 🌐 **Portfolio:** [akshat-delta.vercel.app](https://akshat-delta.vercel.app/)
-- 📧 **Email:** akshatf8lmalik@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/akshat-malik-2079973a0](https://www.linkedin.com/in/akshat-malik-2079973a0/)
-- ✍️ **Medium:** [medium.com/@akshatf8lmalik](https://medium.com/@akshatf8lmalik)
+- [#10442](https://github.com/better-auth/better-auth/pull/10442) — Tightened `CookieAttributes` index signature typing for improved session cookie type-safety.
 
 ---
 
 <div align="center">
 
+<a href="http://akshatmalik.is-a.dev/resume.pdf"><img src="https://img.shields.io/badge/Full%20Resume%20%2F%20CV-4B0082?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
 
 
 </div>
