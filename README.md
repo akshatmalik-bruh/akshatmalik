@@ -125,8 +125,8 @@ A web-based code execution platform using **worker processes** to orchestrate Do
 
 - 📦 **400+ npm downloads** for Chat-Relay MCP
 - 🧩 **400+ DSA problems** solved on LeetCode and other platforms
-- 📰 **Scopus-indexed publication** — *Youth Standpoints on Food Wastage at Indian Weddings* (TSM Journal)
 - ✍️ Active technical writer on **Medium** — web dev, AI systems, and software engineering
+  
 
 ---
 
